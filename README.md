@@ -1,4 +1,4 @@
-# RAFIE ACHMAD FAHREZI - Modern Portfolio
+# Modern Portfolio
 
 ![Portfolio Preview](screenshot.jpg)
 
