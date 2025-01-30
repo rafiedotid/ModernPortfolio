@@ -1,1 +1,71 @@
-
+{
+    "hero": {
+        "title": "RAFIE ACHMAD FAHREZI",
+        "subtitle": "Full-Stuck Developer",
+        "button_text": "Let's Collaborate",
+        "profile_image": "https:\/\/scontent.fbdo14-1.fna.fbcdn.net\/v\/t39.30808-6\/448170785_1437739770959996_3112908718990462688_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=-tsO729kSSUQ7kNvgEs7o4D&_nc_oc=AdixaCujD4YCajO9ebtqh4RvzvjQXH6I3CTevwM5moPa3vS-CEd00NJyeq3ENh-KYGQ&_nc_zt=23&_nc_ht=scontent.fbdo14-1.fna&_nc_gid=AV7FE3DDXj-T8_WLRfQ01l1&oh=00_AYBPFDwlx06ycI1TiZFlfFmLwTxM5xnwbfzsDsBa3Kfjrg&oe=67A010D1",
+        "scroll_text": "Explore my work"
+    },
+    "social": [
+        {
+            "platform": "Facebook",
+            "url": "https:\/\/a.com"
+        }
+    ],
+    "contact": [
+        {
+            "platform": "WhatsApp",
+            "url": "https:\/\/wa.me\/6287719644174",
+            "icon": "fab fa-whatsapp"
+        },
+        {
+            "platform": "Email",
+            "url": "mailto:rafie@example.com",
+            "icon": "fas fa-envelope"
+        }
+    ],
+    "projects": [
+        {
+            "title": "E-Commerce Platform",
+            "description": "Next-gen shopping platform",
+            "image": "https:\/\/scontent.fbdo14-1.fna.fbcdn.net\/v\/t39.30808-6\/448170785_1437739770959996_3112908718990462688_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=-tsO729kSSUQ7kNvgEs7o4D&_nc_oc=AdixaCujD4YCajO9ebtqh4RvzvjQXH6I3CTevwM5moPa3vS-CEd00NJyeq3ENh-KYGQ&_nc_zt=23&_nc_ht=scontent.fbdo14-1.fna&_nc_gid=AV7FE3DDXj-T8_WLRfQ01l1&oh=00_AYBPFDwlx06ycI1TiZFlfFmLwTxM5xnwbfzsDsBa3Kfjrg&oe=67A010D1",
+            "category": "Web Development",
+            "tags": [
+                "React",
+                "Node.js"
+            ]
+        },
+        {
+            "title": "InilahMyQRIS",
+            "description": "Convert QRIS Statis menjadi Dinamis",
+            "image": "https:\/\/scontent.fbdo14-1.fna.fbcdn.net\/v\/t39.30808-6\/448170785_1437739770959996_3112908718990462688_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=-tsO729kSSUQ7kNvgEs7o4D&_nc_oc=AdixaCujD4YCajO9ebtqh4RvzvjQXH6I3CTevwM5moPa3vS-CEd00NJyeq3ENh-KYGQ&_nc_zt=23&_nc_ht=scontent.fbdo14-1.fna&_nc_gid=AV7FE3DDXj-T8_WLRfQ01l1&oh=00_AYBPFDwlx06ycI1TiZFlfFmLwTxM5xnwbfzsDsBa3Kfjrg&oe=67A010D1",
+            "category": "Web Development",
+            "tags": [
+                "PHP",
+                "Tailwind CSS"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "icon": "fas fa-code",
+            "experience": "5+ Years"
+        },
+        {
+            "name": "Dahar",
+            "icon": "fas fa-utensils",
+            "experience": "18+ Years"
+        },
+        {
+            "name": "Modol",
+            "icon": "fas fa-toilet",
+            "experience": "18+ Years"
+        },
+        {
+            "name": "Ulin",
+            "icon": "fas fa-puzzle-piece",
+            "experience": "18+ Years"
+        }
+    ]
+}
